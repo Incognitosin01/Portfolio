@@ -3,7 +3,6 @@ import styles from "./Home.module.css";
 import Avatar from "../../assets/images/self_image.jpeg";
 import Badge from "../../assets/icons/badge.svg";
 import CompleteBadge from "../../assets/icons/CompleteBadge.svg";
-import Job from "../../assets/icons/job.svg";
 import Problem from "../../assets/icons/problem.svg";
 function Home() {
 	return (

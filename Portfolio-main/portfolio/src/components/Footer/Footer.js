@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./Footer.module.css";
-import NewLetterIcon from "../../assets/icons/Newsletter.svg";
 import { HashLink } from "react-router-hash-link";
 import { BrowserRouter } from "react-router-dom";
 function Footer({ handleOpen }) {

@@ -1,13 +1,6 @@
 import React from "react";
 import styles from "./Project.module.css";
 import { styled } from "@mui/material/styles";
-import Demo1 from "../../assets/projects/chatcord/demo1.gif";
-import Demo2 from "../../assets/projects/chatcord/demo2.gif";
-import Genres from "../../assets/projects/moviesverse/genres.gif";
-import TvDetails from "../../assets/projects/moviesverse/tvDetails.gif";
-import GitHubIcon from "@mui/icons-material/GitHub";
-import PreviewIcon from "@mui/icons-material/Preview";
-import Carousel from "react-material-ui-carousel";
 import { Tabs, Tab, Typography, Box, Button } from "@mui/material";
 
 const StyledTabs = styled((props) => (
